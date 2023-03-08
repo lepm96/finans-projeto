@@ -1,3 +1,9 @@
-# finans-projeto
-Projeto feito com HTML, CSS e Bootstrap 4.1
-Estou estudando e aperfeiçoando a parte básica do Front-End.
+# FINANS
+## Projeto clone de um curso de Desenvolvimento Web
+> Finalizado
+
+
+#### Utilizando as seguintes linguagens e tecnologias:
+- HTML5
+- CSS3 
+- BootStrap
